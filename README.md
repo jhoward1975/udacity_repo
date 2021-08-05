@@ -10,3 +10,4 @@ Repository for Machine Learning Devops Course
 - git push
 - git rebase
 - git cherry-pick
+- git log
